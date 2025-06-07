@@ -92,14 +92,11 @@ Electrical Muscle Stimulation (EMS) has emerged as a key wearable haptic feedbac
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Unity][unity-shield]][unity-url]
+* [![Arduino][arduino]][arduino-url]
+* ![C#][C#-s]
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* [![HTC][HTC-s]][HTC-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,6 +223,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[unity-shield]:https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
+[unity-url]:https://unity.com/
+[arduino]:https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
+[arduino-url]:https://www.arduino.cc/
+[C#-s]:https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
+[HTC-s]:https://img.shields.io/badge/HTC%20VIVE-black?style=for-the-badge&logo=htcvive
+[HTC-url]:https://www.vive.com/
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
