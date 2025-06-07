@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2007b41dcec48764480c53f5261cfd02, type: 3}
+  m_Name: Head200ms
+  m_EditorClassIdentifier: 
+  Intensity: 1
+  Duration: 1
+  ClipType: 0
+  JsonValue: '{"project":{"category":"","tags":[],"uploader":"myqznxW8hZeLaghGIrWPVReAYK22","mediaFileDuration":3,"name":"200ms","id":"7ErWHxUhiuUtEa4etDlT","media":{"name":"","mediaType":"None","description":"","link":"","updateTime":0,"duration":0},"description":"","tracks":[{"enable":true,"effects":[{"name":"Effect
+    1","offsetTime":200,"startTime":0,"modes":{"Head":{"dotMode":{"dotConnected":false,"feedback":[{"startTime":0,"endTime":200,"playbackType":"NONE","pointList":[{"intensity":1,"index":0},{"intensity":1,"index":1},{"intensity":1,"index":2},{"intensity":1,"index":3}]}]},"pathMode":{"feedback":[{"movingPattern":"CONST_SPEED","playbackType":"NONE","visible":true,"pointList":[]}]},"mode":"DOT_MODE"}}}]},{"enable":true,"effects":[]}],"layout":{"name":"TactVisor","type":"TactVisor","layouts":{"Head":[{"index":0,"y":0.5,"x":0},{"index":1,"y":0.5,"x":0.3},{"index":2,"y":0.5,"x":0.7},{"index":3,"y":0.5,"x":1}]}},"createdAt":1691154590217,"updatedAt":1691154745605},"durationMillis":0,"intervalMillis":20,"size":20}'
+  _clipDurationTime: -1
