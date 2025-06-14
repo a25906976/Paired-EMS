@@ -32,12 +32,14 @@
 
   <p align="center">
     <br />
-    <a href="https://dl.acm.org/doi/10.1145/3613904.3642841"><strong> Read the Paper »</strong></a>
+    <a href="https://dl.acm.org/doi/10.1145/3613904.3642841"><strong> Read the Paper » ACM CHI'24 Paper</strong></a>
+    <br />
+    (Overall Acceptance Rate 6,199 of 26,314 submissions, 24%)
     <br />
     <br />
     <strong> View Demo Video</strong>
     <br />
-    <a href="https://www.youtube.com/watch?v=7NbJ0tl-Qlc"><strong>30s Preview</strong></a>
+    <a href="https://www.youtube.com/watch?v=7NbJ0tl-Qlc"><strong>30s Preview</strong></a> 
     &middot;
     <a href="https://www.youtube.com/watch?v=wXZyBsOmNBc"><strong>Paper Presentation</strong></a>
 <!--     &middot;
